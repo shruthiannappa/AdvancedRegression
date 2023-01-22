@@ -15,7 +15,7 @@
 
 ## General Information
 - We have created a Linear Regression Model with RFE for 70 features
-- Performed Lasso and Ridge Regularization using the top 70 features from RFE
+- Performed Lasso and Ridge Regularization on the above model
 - Concluded value of alpha for Ridge and Lasso Regression
  
 
