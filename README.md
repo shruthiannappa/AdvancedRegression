@@ -41,6 +41,6 @@ Give credit here.
 - This project was inspired by...
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@shruthiannappa] - feel free to contact me!
 
 
