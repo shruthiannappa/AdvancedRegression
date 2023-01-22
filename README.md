@@ -20,7 +20,7 @@
  
 
 ## Conclusions
--  Based the above observations we can finalise Lasso Regression with 57 predictors as the final model with value of alpha being 0.0001
+-  Based the above observations we can finalise Lasso Regression with 62 predictors as the final model with value of alpha being 0.0001
 - The top 5 variables are MSZoning_RL,MSZoning_RH,OverallQual_9,MSZoning_FV,MSZoning_RM
 
 
